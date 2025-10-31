@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(python3:*)",
+      "mcp__shared-memory__add_memory",
+      "mcp__shared-memory__read_memory"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "shared-memory": {
+      "command": "python",
+      "args": [
+        "/absolute/path/to/shared_memory_mcp.py"
+      ],
+      "env": {},
+      "disabled": false
+    }
+  }
+}
